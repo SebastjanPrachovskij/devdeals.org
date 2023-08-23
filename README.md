@@ -145,6 +145,7 @@ Table of Contents
   * [Zendesk](https://www.zendesk.com/campaign/partner-startups/?partner_account=0011E00001mldt9QAA) - CRM & customer support platform. 6 months free Support and Sales with ```DEVDEALS```.
 ## Miscellaneous
   * [Fiverr](https://lp.fiverr.com/business-secret/) - Freelancing platform. 20% off your first order with ```JSECRET20```.
+  * [SearchApi](https://www.searchapi.io/) - Real-time API for Google and other search engines. 25% off on any plans for 12 months with ```DEVDEALS25```.
 ## Monitoring
   * [Instatus](https://instatus.com/startups) - Real-time status page creation tool. 1 year free on Pro Plan with ```DEVDEALS```.
   * [New Relic](http://bit.ly/newrelic-startups-carta) - Monitor, debug, and optimize apps and systems. $125k in New Relic One credits with ```DEVDEALS```.
